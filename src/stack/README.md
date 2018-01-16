@@ -20,15 +20,22 @@
 ###**问题:**
 
 1、访问权限，public，protected,private 
+https://www.cnblogs.com/jingmengxintang/p/5898900.html
 
-2、final static
+2、final， static
+http://blog.csdn.net/tengdazhang770960436/article/details/25156743
 
 3、top++,++top
+https://zhidao.baidu.com/question/18032484.html
 
-4、创建对象空间的预加载和懒加载
+4、创建对象空间的预和懒
+
 
 5、if else 的使用
 
+if下有单行执行语句可以不用{}
+
 6、this 关键字
+https://www.cnblogs.com/lzq198754/p/5767024.html
 
 ##二、基于链式存储实现

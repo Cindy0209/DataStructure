@@ -1,6 +1,6 @@
-package stack;
+package stack.main;
 
-import stack.exception.ExceptionStackEmpty;
+import stack.main.exception.ExceptionStackEmpty;
 
 /**
  * 栈接口（出栈，入栈，栈空，栈大小，栈顶）

@@ -1,7 +1,7 @@
-package stack;
+package stack.main;
 
-import stack.exception.ExceptionStackEmpty;
-import stack.exception.ExceptionStackFull;
+import stack.main.exception.ExceptionStackEmpty;
+import stack.main.exception.ExceptionStackFull;
 
 /**
  * 基于数组存储的栈实现类
@@ -37,6 +37,7 @@ public class Stack_Array implements Stack {
 			elem=S[top];
 			top--;
 		}
+
 		return elem;
 	}
 
@@ -49,15 +50,18 @@ public class Stack_Array implements Stack {
 			S[top+1]=obj;
 			top++;
 		}
+
 	}
 
 	@Override
 	public boolean isEmpty() {
+
 		return (top<0);
 	}
 
 	@Override
 	public int getSize() {
+
 		return (top+1);
 	}
 
@@ -69,6 +73,7 @@ public class Stack_Array implements Stack {
 		}else{
 			elem=S[top];
 		}
+
 		return elem;
 	}
 }

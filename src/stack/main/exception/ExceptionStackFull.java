@@ -1,4 +1,4 @@
-package stack.exception;
+package stack.main.exception;
 
 /**
  * 基于数组存储实现的栈满入栈异常类

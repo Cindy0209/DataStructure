@@ -17,5 +17,18 @@
 
 添加栈满入栈异常类
 
+###**问题:**
+
+1、访问权限，public，protected,private 
+
+2、final static
+
+3、top++,++top
+
+4、创建对象空间的预加载和懒加载
+
+5、if else 的使用
+
+6、this 关键字
 
 ##二、基于链式存储实现

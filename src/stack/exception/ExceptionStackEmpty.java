@@ -1,4 +1,4 @@
-package stack;
+package stack.exception;
 
 /**
  * 试图对空栈进行取栈顶或者出栈的异常方法

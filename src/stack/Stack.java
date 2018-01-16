@@ -1,5 +1,7 @@
 package stack;
 
+import stack.exception.ExceptionStackEmpty;
+
 /**
  * 栈接口（出栈，入栈，栈空，栈大小，栈顶）
  *
